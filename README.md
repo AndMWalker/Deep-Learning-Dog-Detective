@@ -1,5 +1,5 @@
 # Deep-Learning-Dog-Detective
-A machine learning algorithmn that predicts the dog breed based on pictures of dogs.
+A machine learning algorithm that predicts the dog breed based on pictures of dogs.
 
 
 @DogDetBot on telegram
